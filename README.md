@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Krishna Aditya KUrapati</h1>
+<h1 align="center">Hi 👋, I'm Sri Krishna Aditya Kurapati</h1>
 <h3 align="center">A Keen Learner and Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1543&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1543" /> </p>
